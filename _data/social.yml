@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/jiyong_me
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/jiyong
+  icon: fab fa-github
